@@ -4,6 +4,11 @@ Telegram Mini App store: catalog, cart, Nova Poshta checkout, and an admin panel
 
 Stack: Next.js 16, React 19, Supabase, Telegram WebApp SDK, shadcn/ui.
 
+## Preview
+![Desktop1](https://i.ibb.co/0yHWGnpF/Desktop-1.png)
+![Desktop2](https://i.ibb.co/dsNZLmBY/Desktop-2.png)
+![Desktop3](https://i.ibb.co/LXswtsyw/Desktop-3.png)
+
 ## Run locally
 
 ```bash
